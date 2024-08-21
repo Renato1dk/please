@@ -1,0 +1,5 @@
+@keyframes fall {
+    to {
+        transform: translateY(100vh);
+    }
+}
